@@ -1,0 +1,33 @@
+#frame {
+  background-color: #D3D3D3;
+  border-radius: 5px;
+  margin: 30px 30px 30px 30px;
+  padding: 20px 20px 20px 20px;
+}
+
+#subtitle {
+  font-style: italic;
+}
+
+#photo {
+  text-justify: center;
+}
+
+#list {
+  margin: 20px 50px 20px 50px;
+}
+
+#quote {
+  font-family: Lato, Lucida Grande, Lucida Sans Unicode, Tahoma, Sans-Serif;
+}
+
+#quote-attribute {
+  font-style: italic;
+}
+
+#credit {
+  padding: 0px;
+  margin: 10px 10px 0px 10px;
+  border: transparent;
+  background-color: transparent;
+}
